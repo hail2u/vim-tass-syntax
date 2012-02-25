@@ -11,8 +11,7 @@ endif
 " setlocal iskeyword+=-
 
 runtime! syntax/css.vim
-runtime! after/syntax/css.vim
-runtime! after/syntax/css/*.vim
+runtime! syntax/css/*.vim
 
 syn case ignore
 
